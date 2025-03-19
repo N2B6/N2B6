@@ -31,14 +31,6 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="70" height="70"/>
 </p>
 
-### Featured Projects 🔥
-
-### GitHub Analytics ⚡
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n2b6&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n2b6&layout=compact&langs_count=8&theme=dark"/>
-</p>
 
 
 ### Let's Connect! 🤝

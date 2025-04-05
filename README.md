@@ -9,7 +9,7 @@
 
 - 🌍 Based in Dublin, Ireland, specializing in cloud infrastructure and DevOps practices
 - 🔭 Currently working on building scalable cloud architectures and automation solutions
-- 🌱 Learning and exploring Kubernetes, Terraform, and cloud-native technologies
+- 🌱 Learning and exploring cloud-native technologies
 - 👨‍💻 View my portfolio at [n1pun.netlify.app](https://n1pun.netlify.app)
 - 📫 Reach me at: nipunbakshi262001@gmail.com
 
